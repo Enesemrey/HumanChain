@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/NitrogenCore/Analytics/EntryScene.unity
+    guid: 177dc5dcfbd033a478324cc0f5dc7a14
+  - enabled: 1
+    path: Assets/Scenes/LEVEL 1.unity
+    guid: f2955454b99fe74488de2cfd0ed8a957
+  - enabled: 1
+    path: Assets/Scenes/LEVEL 2.unity
+    guid: 80eeba22f22010149b9ed2ca565fd919
+  - enabled: 1
+    path: Assets/Scenes/LEVEL 3.unity
+    guid: 6b7b0205e8b041040bcb6ecd936ca5c3
+  - enabled: 1
+    path: Assets/Scenes/LEVEL 4.unity
+    guid: 6b2417ed56256ac4c882a9827e4689ad
+  - enabled: 1
+    path: Assets/Scenes/LEVEL 5.unity
+    guid: 6d82d570c28024545b9a79ebc9be00eb
+  m_configObjects: {}
